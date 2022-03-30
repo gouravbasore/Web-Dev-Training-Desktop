@@ -8,7 +8,7 @@
 //  Reference Type
 //  ==============
 //  array
-let fruits = ["Banana", "Orange", "Apple", "Mango"];
+
 console.log(fruits[2]);
 
 let array1 = ["item1", "item2"];

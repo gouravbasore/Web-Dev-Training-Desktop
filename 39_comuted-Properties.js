@@ -25,4 +25,5 @@ const value2 = "myValue2";
 const obj = {}
 obj[key1] = value1;
 obj[key2] = value2;
+
 console.log(obj);

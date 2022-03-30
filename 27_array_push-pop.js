@@ -3,7 +3,7 @@
 
 let fruits = ["apple", "mango", "grapes"];
 console.log(fruits);
-console.log(fruits = [fruits.length-1]);
+
 
 // //  push 
 // fruits.push("banana");
